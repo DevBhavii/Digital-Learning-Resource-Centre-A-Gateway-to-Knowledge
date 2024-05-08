@@ -9,16 +9,3 @@ Websites
 • To offer professional development opportunities and resources for educators and professionals in various fields.
 • To create a centralized platform for accessing and sharing knowledge and information across geographical and disciplinary 
 boundaries</p>
-<br>
-<p>Some important tags of HTML 
-we used.
-1 <marquee/>, <table/> and <body/>
-These tags used for decoration of our webpage with the attributes of 
-tags.
-2 <a/> 
-The tag defines a hyperlink, which is used to link from one page to 
-another we used for grouping more web pages in one page.
-3 <tr/>, <td/> and <tbody/>
-These tags we used for table designing .
-4 <b>, <img>, <p>, <h1,2,3..6> and <div>
-These are some commanly used tags in each page</p>
